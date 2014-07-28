@@ -3,3 +3,6 @@
 333333
 
 666666666666666666666
+
+
+https://github.com/fanglufanglu/jpush-api-java-client.git
